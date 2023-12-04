@@ -41,8 +41,5 @@ Feel free to modify the code according to your specific requirements.
 
 This project is licensed under the [MIT License](LICENSE).
 
-➡️ Follow the instructions above to set up and run the project!
-
-
 
 

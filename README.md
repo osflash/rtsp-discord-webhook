@@ -40,6 +40,3 @@ Feel free to modify the code according to your specific requirements.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-
-
